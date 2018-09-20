@@ -33,6 +33,7 @@ mutation {
   }
 }
 ```
+Note: Works! The mutation is blocked because of the constraint.
 
 ### Test (broken):
 1. Uncomment `l34: scalar ConstraintString` in the `typeDefs` graphql schema
