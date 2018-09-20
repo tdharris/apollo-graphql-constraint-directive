@@ -11,7 +11,7 @@ let user = {
 
 // The GraphQL schema
 const typeDefs = gql`
-  directive @length(max: Int) on FIELD_DEFINITION | INPUT_FIELD_DEFINITION
+  # directive @length(max: Int) on FIELD_DEFINITION | INPUT_FIELD_DEFINITION
 
   directive @constraint(
     # String constraints
