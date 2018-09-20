@@ -1,5 +1,10 @@
 # apollo-graphql-constraint-directive
 
+### Description:
+This repo is just to demonstrate an issue. See the following:
+- https://github.com/apollographql/apollo-server/issues/1303
+- https://github.com/confuser/graphql-constraint-directive/issues/2
+
 ### Install:
 ```
 git clone https://github.com/tdharris/apollo-graphql-constraint-directive.git
